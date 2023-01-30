@@ -1,6 +1,10 @@
-# 10 Vulnerable Android Applications for beginners to learn Android hacking. 
+# Vulnerable Android Applications for beginners to learn Android hacking. 
 
 A self curated list of vulnerable android  applications for security professionals, bug bounty hunters, pentesters, reverse engineer, and redteamers. to learn android app hacking
+
+## 0. Hacker101 (by HackerOne)
+This learning track is dedicated to learning the most popular mobile vulnerabilities in both Android and iOS applications.
+- [Mobile hacking](https://www.hacker101.com/playlists/mobile_hacking)
 
 ## 1. InjuredAndroid
 A vulnerable android application ctf examples based on bug bounty findings, exploitation concepts.<br>
