@@ -7,9 +7,10 @@ Lists of essential ressources for pentesting learner.
 - [CTF and Learning paths](/src/ctf.md)
 - [Pentesting Methodology](/src/pentesting_methodology.md)
 - [Reports](/src/report.md)
+- [Phishing](/src/phishing.md)
 
 ## General Useful Tools
-- [ChatGPT](https://chat.openai.com/chat)
+- [ChatGPT](https://chat.openai.com/chat) (Read books instead!)
 - [awesome-pentest list](https://github.com/enaqx/awesome-pentest)
 
 ## Podcast
